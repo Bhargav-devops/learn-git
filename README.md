@@ -10,3 +10,6 @@ cart function added
 ### rebase how it works
 
 - wont preseve commit histroy
+- In main branch it looks like liner devlopment, no chain structure
+- dont create new commit
+- commit id will change
