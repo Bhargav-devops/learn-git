@@ -13,3 +13,7 @@ cart function added
 - In main branch it looks like liner devlopment, no chain structure
 - dont create new commit
 - commit id will change
+
+### Squash
+
+- cart moduel-1
