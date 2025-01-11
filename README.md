@@ -17,3 +17,4 @@ cart function added
 ### Squash
 
 - cart moduel-1
+- cart moduel-2
