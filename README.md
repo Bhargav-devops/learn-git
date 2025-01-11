@@ -6,3 +6,7 @@
 
 user function added
 cart function added
+
+### rebase how it works
+
+- wont preseve commit histroy
